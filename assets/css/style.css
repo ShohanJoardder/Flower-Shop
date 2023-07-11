@@ -168,6 +168,23 @@ section{
     margin-top: 24px;
     margin-bottom: 32px;
 }
-.discount-title{
-    
+/* Services */
+.service-info{
+    margin-top: 128px;
+    text-align: center;
+}
+.service-title{
+    margin-bottom: 24px;
+}
+.service-desc{
+    width: 594px;
+    margin: auto;
+}
+.service-img-container{
+    margin: 48px 168px 0 228px;
+}
+.service-img-container img{
+    width: 342px;
+    height: 396px;
+   margin-right: 24px;
 }
