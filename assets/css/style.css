@@ -219,4 +219,24 @@ section{
     border-radius: 8px; 
 }
 /* footer */
-footer
+footer{
+    background: #111010;
+}
+.footer-info{
+    text-align: center;
+    padding-top: 128px;
+}
+.footer-title{
+    color: #fff;
+}
+.footer-desc{
+    color: rgba(255, 255, 255, 0.90); 
+    width: 625px;
+    padding-top: 24px;
+    margin: auto; 
+}
+.footer-text{
+    color: rgba(255, 255, 255, 0.40); 
+    padding-top: 32px;
+    padding-bottom: 128px;
+}
