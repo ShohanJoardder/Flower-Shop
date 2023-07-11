@@ -7,4 +7,45 @@ body{
     padding: 0;
 }
 /* Global Class*/
-
+.desc{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.btn{
+    background: #E55473;
+    color: #fff;
+    font-size: 20px;
+    border-radius: 8px;
+    padding: 20px 43px;
+    border: 0; 
+}
+/* Banner */
+.banner{
+    display: flex;
+    background: rgba(229, 84, 115, 0.10);
+    padding: 0 240px;
+}
+.banner-container{
+    padding: 197px 97px 147px 0;
+}
+.banner-title{
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    margin-bottom: 0;
+}
+.banner-desc{
+    margin-top: 32px;
+    margin-bottom: 0;
+    width: 634px; 
+}
+.banner-btn{
+    margin-top: 32px;
+}
+.banner img{
+    width: 635px;
+    height: 800px;
+    margin-top: 50px;
+}
